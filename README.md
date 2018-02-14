@@ -1,6 +1,7 @@
 # youtube-dl-toolkit
 Just another Windows Batch Script for Youtube-DL ( https://rg3.github.io/youtube-dl/ )
-[Donwload](https://github.com/RomanticKiller/youtube-dl-toolkit/releases)
+
+[Download](https://github.com/RomanticKiller/youtube-dl-toolkit/releases)
 
 ----------
 
